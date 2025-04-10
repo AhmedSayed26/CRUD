@@ -54,4 +54,7 @@ Products are shown in a clean card layout that displays:
 - Make sure your image files are stored in the `/assets` folder.
 - This is a front-end-only application (no database or backend).
 
+## Live Demo 
+## https://ahmedsayed26.github.io/CRUD/
+
 
